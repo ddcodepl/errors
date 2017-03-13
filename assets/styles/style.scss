@@ -1,0 +1,25 @@
+body {
+  background: #089ce4;
+}
+
+.start {
+  display: block;
+  margin: 0 auto;
+}
+
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 40%;
+  text-align: center;
+  font-size: 84px;
+  color: #FFFFFF;
+  font-weight: 100;
+  font-family: 'Lato', sans-serif;
+  
+  span {
+    padding: 0 5vw;
+    transition: all 1s;
+  }
+}
