@@ -1,10 +1,6 @@
 body {
   background: #089ce4; }
 
-.start {
-  display: block;
-  margin: 0 auto; }
-
 .container {
   position: absolute;
   left: 0;
