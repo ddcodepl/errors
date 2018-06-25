@@ -1,20 +1,12 @@
-body {
-  background: #089ce4;
-}
-
-.container {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 40%;
-  text-align: center;
-  font-size: 84px;
+.error-container {
+  display: flex;
+  height: 100vh;
+  font-size: 6em;
   color: #FFFFFF;
   font-weight: 100;
-  font-family: 'Lato', sans-serif;
-  
-  span {
-    padding: 0 5vw;
-    transition: all 1s;
-  }
+  letter-spacing: 1em;
+  background: #2980b9;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
 }
