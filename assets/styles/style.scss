@@ -4,9 +4,12 @@
   font-size: 6em;
   color: #FFFFFF;
   font-weight: 100;
-  letter-spacing: 1em;
   background: #2980b9;
   align-items: center;
   justify-content: center;
   font-family: 'Roboto', sans-serif;
+  
+  span {
+    padding: 0 5vw;
+  }
 }
